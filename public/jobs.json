@@ -83,44 +83,5 @@
     ],
     "source": "WeWorkRemotely",
     "matchScore": 0
-  },
-  {
-    "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Enginee...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 0
-  },
-  {
-    "title": "Kyber (YC W23) Is Hiring a Forward Deployed Eng...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 0
-  },
-  {
-    "title": "Jiga (YC W21) Is Hiring Product Engineer (Remot...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 0
   }
 ]
