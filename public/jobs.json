@@ -17,6 +17,23 @@
     "matchScore": 1
   },
   {
+    "title": "Revenuecat: Senior DevOps / DevEx Engineer",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
     "title": "Smartcat: Senior Product Manager",
     "company": "Tech Company",
     "time": "Just now",
@@ -68,20 +85,42 @@
     "matchScore": 0
   },
   {
-    "title": "Kodify: Senior Product Manager",
-    "company": "Tech Company",
-    "time": "Just now",
+    "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Enginee...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
     "tags": [
       {
-        "label": "Remote",
+        "label": "Startup",
         "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
       }
     ],
-    "source": "WeWorkRemotely",
+    "source": "HN",
+    "matchScore": 0
+  },
+  {
+    "title": "Kyber (YC W23) Is Hiring a Forward Deployed Eng...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 0
+  },
+  {
+    "title": "Jiga (YC W21) Is Hiring Product Engineer (Remot...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
     "matchScore": 0
   }
 ]
