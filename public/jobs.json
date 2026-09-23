@@ -85,6 +85,19 @@
     "matchScore": 0
   },
   {
+    "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 0
+  },
+  {
     "title": "Supabase (YC S20) Is Hiring for OrioleDB",
     "company": "Y Combinator Startup",
     "time": "Today",
@@ -99,19 +112,6 @@
   },
   {
     "title": "Cekura (YC F24) Is Hiring",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 0
-  },
-  {
-    "title": "Zettascale (YC S24) Is Hiring ASIC/FPGA Enginee...",
     "company": "Y Combinator Startup",
     "time": "Today",
     "tags": [
