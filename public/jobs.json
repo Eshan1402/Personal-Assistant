@@ -17,6 +17,40 @@
     "matchScore": 1
   },
   {
+    "title": "Flexport: Senior Systems Engineer (Identity and Access)",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
+    "title": "Salesloft: Commercial Account Manager",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
     "title": "Lemon.io: Senior .NET Full-stack Developer",
     "company": "Tech Company",
     "time": "Just now",
@@ -35,40 +69,6 @@
   },
   {
     "title": "Wonderdog: Full-Stack Product Engineer - Agentic First",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Legion: Director of Production Engineering",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Legion: Chief Architect",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
