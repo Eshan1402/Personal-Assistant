@@ -1,6 +1,6 @@
 [
   {
-    "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
+    "title": "Sticker Mule: AI agent engineer",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
@@ -14,7 +14,7 @@
       }
     ],
     "source": "WeWorkRemotely",
-    "matchScore": 2
+    "matchScore": 1
   },
   {
     "title": "Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture ",
@@ -51,7 +51,20 @@
     "matchScore": 1
   },
   {
-    "title": "Proxify AB: Senior Backend Developer (Python)",
+    "title": "Bild AI (YC W25) Is Hiring a Founding Product E...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 1
+  },
+  {
+    "title": "Samsara: Staff Software Engineer",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
@@ -65,7 +78,7 @@
       }
     ],
     "source": "WeWorkRemotely",
-    "matchScore": 1
+    "matchScore": 0
   },
   {
     "title": "AccuLynx: Senior Software Engineer ",
@@ -99,19 +112,6 @@
   },
   {
     "title": "QuestDB (YC S20) Is Hiring a Sales Engineer",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 0
-  },
-  {
-    "title": "Supabase (YC S20) Is Hiring for OrioleDB",
     "company": "Y Combinator Startup",
     "time": "Today",
     "tags": [
