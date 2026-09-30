@@ -17,6 +17,23 @@
     "matchScore": 2
   },
   {
+    "title": "Toptal: Senior Data Engineer – AWS Data Lake & Pipeline Architecture ",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 1
+  },
+  {
     "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
     "company": "Tech Company",
     "time": "Just now",
@@ -52,23 +69,6 @@
   },
   {
     "title": "Reddit: Backend Engineer, IAM",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Pinterest: Data Scientist II, Infrastructure",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
