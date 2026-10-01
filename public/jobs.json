@@ -51,19 +51,6 @@
     "matchScore": 1
   },
   {
-    "title": "Bild AI (YC W25) Is Hiring a Founding Product E...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 1
-  },
-  {
     "title": "Samsara: Staff Software Engineer",
     "company": "Tech Company",
     "time": "Just now",
@@ -95,32 +82,6 @@
       }
     ],
     "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's ...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 0
-  },
-  {
-    "title": "Stable (YC W20) Is Hiring Product Engineers",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
     "matchScore": 0
   }
 ]
