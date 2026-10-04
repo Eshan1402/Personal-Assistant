@@ -13,6 +13,23 @@
     "matchScore": 1
   },
   {
+    "title": "Hex Technologies: Cloud Security Engineer",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
     "title": "Toptal: Senior Integration Engineer for Enterprise API & Integration Products",
     "company": "Tech Company",
     "time": "Just now",
@@ -65,23 +82,6 @@
   },
   {
     "title": "Edfinity: Senior Software Engineer, remote",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Samsara: Staff Software Engineer",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
