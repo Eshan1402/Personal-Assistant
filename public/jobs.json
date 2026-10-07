@@ -30,6 +30,23 @@
     "matchScore": 1
   },
   {
+    "title": "Toggl: Senior Full Stack",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
     "title": "Toptal: Salesforce Platform Lead for Global Industrial Company",
     "company": "Tech Company",
     "time": "Just now",
@@ -65,23 +82,6 @@
   },
   {
     "title": "Adventure Travel 365: Senior Full-Stack Developer - Marketplace Web & Mobile Platform",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Hex Technologies: Cloud Security Engineer",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
