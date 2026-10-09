@@ -1,6 +1,19 @@
 [
   {
-    "title": "STEUART NUTRITION: Software Developer AI Coding",
+    "title": "RetailReady (YC W24) Is Hiring",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 1
+  },
+  {
+    "title": "Wisevu: Web Development Project Manager",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
@@ -14,20 +27,7 @@
       }
     ],
     "source": "WeWorkRemotely",
-    "matchScore": 1
-  },
-  {
-    "title": "RetailReady (YC W24) Is Hiring",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 1
+    "matchScore": 0
   },
   {
     "title": "Dremio: Software Engineer - Developer Experience",
