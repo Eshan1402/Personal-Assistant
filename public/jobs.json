@@ -34,6 +34,19 @@
     "matchScore": 1
   },
   {
+    "title": "Weave (YC W25) is hiring ML, AI, product, & des...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 1
+  },
+  {
     "title": "RetailReady (YC W24) Is Hiring",
     "company": "Y Combinator Startup",
     "time": "Today",
@@ -99,19 +112,6 @@
   },
   {
     "title": "Great Question (YC W21) Is Hiring Product Engin...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 0
-  },
-  {
-    "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's ...",
     "company": "Y Combinator Startup",
     "time": "Today",
     "tags": [
