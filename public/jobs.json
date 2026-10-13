@@ -1,5 +1,39 @@
 [
   {
+    "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 1
+  },
+  {
+    "title": "Discord: Engineering Manager, Machine Learning (Safety)",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 1
+  },
+  {
     "title": "ZoomInfo Technologies LLC: Director, Applied AI",
     "company": "Tech Company",
     "time": "Just now",
@@ -61,40 +95,6 @@
   },
   {
     "title": "Postscript: Client Strategist",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Wisevu: Web Development Project Manager",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Dremio: Software Engineer - Developer Experience",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
