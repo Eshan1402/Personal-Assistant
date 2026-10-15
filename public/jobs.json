@@ -1,5 +1,22 @@
 [
   {
+    "title": "Tailscale: Analytics Engineer, Data",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 1
+  },
+  {
     "title": "HR Plus: Web Developer (Fresh graduate welcome, WFH policy, on-job-training)",
     "company": "Tech Company",
     "time": "Just now",
@@ -18,40 +35,6 @@
   },
   {
     "title": "bondex: Fullstack Web3 Engineer (Solidity / Rust / Typescript)",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 1
-  },
-  {
-    "title": "Discord: Engineering Manager, Machine Learning (Safety)",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 1
-  },
-  {
-    "title": "ZoomInfo Technologies LLC: Director, Applied AI",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
@@ -94,7 +77,24 @@
     "matchScore": 1
   },
   {
-    "title": "Postscript: Client Strategist",
+    "title": "Lithic: Senior Software Engineer, Card Authorization",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
+    "title": "Storetasker: Senior Shopify Developer (Remote + Flexible)",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
