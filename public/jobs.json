@@ -51,6 +51,32 @@
     "matchScore": 1
   },
   {
+    "title": "PostEra (YC W20) Is Hiring AI Researchers for D...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 1
+  },
+  {
+    "title": "Weave (YC W25) is hiring ML, AI, product, & des...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 1
+  },
+  {
     "title": "Lithic: Senior Software Engineer, Card Authorization",
     "company": "Tech Company",
     "time": "Just now",
@@ -82,6 +108,19 @@
       }
     ],
     "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
+    "title": "Coris (YC S22) Is Hiring Back End Engineer",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
     "matchScore": 0
   }
 ]
