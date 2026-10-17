@@ -17,19 +17,6 @@
     "matchScore": 1
   },
   {
-    "title": "PostEra (YC W20) Is Hiring AI Researchers for D...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 1
-  },
-  {
     "title": "Humane World for Animals: Web Designer, eCRM",
     "company": "Tech Company",
     "time": "Just now",
@@ -95,6 +82,19 @@
       }
     ],
     "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
+    "title": "Artie (YC S23) Is Hiring Enterprise AES and Sen...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
     "matchScore": 0
   },
   {
