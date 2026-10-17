@@ -34,19 +34,6 @@
     "matchScore": 1
   },
   {
-    "title": "PostEra (YC W20) Is Hiring AI Researchers for D...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 1
-  },
-  {
     "title": "Doximity: Commercial Data Scientist",
     "company": "Tech Company",
     "time": "Just now",
@@ -95,32 +82,6 @@
       }
     ],
     "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Piramidal (YC W24) Is Hiring",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 0
-  },
-  {
-    "title": "Coris (YC S22) Is Hiring Back End Engineer",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
     "matchScore": 0
   }
 ]
