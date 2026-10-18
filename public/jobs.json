@@ -83,44 +83,5 @@
     ],
     "source": "WeWorkRemotely",
     "matchScore": 0
-  },
-  {
-    "title": "Artie (YC S23) Is Hiring Enterprise AES and Sen...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 0
-  },
-  {
-    "title": "Flexport Is Hiring a Biz Ops Leader in Office o...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 0
-  },
-  {
-    "title": "Piramidal (YC W24) Is Hiring",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 0
   }
 ]
