@@ -17,6 +17,23 @@
     "matchScore": 1
   },
   {
+    "title": "Stripe: Abuse Research Engineer",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
     "title": "Humane World for Animals: Web Designer, eCRM",
     "company": "Tech Company",
     "time": "Just now",
@@ -52,23 +69,6 @@
   },
   {
     "title": "Hex Technologies: Legal Ops",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Lithic: Senior Risk Associate",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
