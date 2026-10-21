@@ -85,6 +85,19 @@
     "matchScore": 0
   },
   {
+    "title": "9 Mothers (YC P26) Is Hiring in Austin, TX",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 0
+  },
+  {
     "title": "Hazel (YC W24) Is Hiring",
     "company": "Y Combinator Startup",
     "time": "Today",
@@ -99,19 +112,6 @@
   },
   {
     "title": "Evidence (YC S21) Is Hiring Software Engineers",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 0
-  },
-  {
-    "title": "Artie (YC S23) Is Hiring Enterprise AES and Sen...",
     "company": "Y Combinator Startup",
     "time": "Today",
     "tags": [
