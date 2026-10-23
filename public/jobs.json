@@ -1,5 +1,22 @@
 [
   {
+    "title": "A.Team: Senior Independent AI Engineer / Architect",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 1
+  },
+  {
     "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
     "company": "Tech Company",
     "time": "Just now",
@@ -52,23 +69,6 @@
   },
   {
     "title": "Humane World for Animals: Web Designer, eCRM",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Doximity: Commercial Data Scientist",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
