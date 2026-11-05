@@ -17,24 +17,7 @@
     "matchScore": 1
   },
   {
-    "title": "Upgrade: AI Experience Engineer (Conversational AI)",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 1
-  },
-  {
-    "title": "Medify: Engineering Manager",
+    "title": "Sanctuary Computer: Head of Technology",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
@@ -51,7 +34,7 @@
     "matchScore": 0
   },
   {
-    "title": "Lattice: Senior Software Engineer, Infrastructure Platform",
+    "title": "Samsara: Staff Software Engineer",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
@@ -68,7 +51,24 @@
     "matchScore": 0
   },
   {
-    "title": "StockX: Category Manager - Apparel",
+    "title": "Maven Clinic: Director, Marketing Operations",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
+    "title": "Fivetran : Global Alliance Lead, Capgemini",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
