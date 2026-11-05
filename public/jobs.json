@@ -17,6 +17,19 @@
     "matchScore": 1
   },
   {
+    "title": "Bild AI (YC W25) Is Hiring Founding Product Eng...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 1
+  },
+  {
     "title": "Sanctuary Computer: Head of Technology",
     "company": "Tech Company",
     "time": "Just now",
@@ -99,19 +112,6 @@
   },
   {
     "title": "Sava Trust (YC F25) Is Hiring a Founding Engine...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 0
-  },
-  {
-    "title": "Bitmovin (YC S15) Is Hiring Technical Graduates...",
     "company": "Y Combinator Startup",
     "time": "Today",
     "tags": [
