@@ -39,6 +39,23 @@
     "matchScore": 1
   },
   {
+    "title": "Lithic: Senior Software Engineer, Processing",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
     "title": "Squarespace: Staff Software Engineer, Revenue Systems",
     "company": "Tech Company",
     "time": "Just now",
@@ -74,23 +91,6 @@
   },
   {
     "title": "Twikey: Senior Java Developer",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Mixpanel: Customer Value Architect III",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
