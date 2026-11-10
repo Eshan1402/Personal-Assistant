@@ -51,6 +51,32 @@
     "matchScore": 1
   },
   {
+    "title": "UpCodes (YC S17) is hiring SDR's to sell AI com...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 1
+  },
+  {
+    "title": "Mbodi AI (YC P25) Is Hiring Research and Roboti...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 1
+  },
+  {
     "title": "Lithic: Senior Software Engineer, Product Platform",
     "company": "Tech Company",
     "time": "Just now",
@@ -82,6 +108,19 @@
       }
     ],
     "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
+    "title": "Y/N (YC S23) is hiring a growth lead to distrib...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
     "matchScore": 0
   }
 ]
