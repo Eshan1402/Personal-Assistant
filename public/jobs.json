@@ -1,40 +1,57 @@
 [
   {
+    "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 2
+  },
+  {
+    "title": "Proxify AB: Senior Backend Developer (Python)",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 1
+  },
+  {
+    "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 1
+  },
+  {
     "title": "Current: Freelance Marketo Email Engineer",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 1
-  },
-  {
-    "title": "Clover Health: Director, AI-Enabled Fraud Prevention & Investigations",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 1
-  },
-  {
-    "title": "Airbnb: Operations Engineer, BizTech",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
@@ -77,24 +94,7 @@
     "matchScore": 1
   },
   {
-    "title": "Lithic: Senior Software Engineer, Product Platform",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Alloy: Founding Forward Deployed Engineer",
+    "title": "BDF EXPERTS: SAP Berater FI/CO (M/W/D)",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
