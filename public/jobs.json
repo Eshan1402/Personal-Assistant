@@ -68,7 +68,33 @@
     "matchScore": 1
   },
   {
-    "title": "Clover Health: Director, AI-Enabled Fraud Prevention & Investigations",
+    "title": "Tinfoil (YC P25) is hiring an applied AI securi...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 1
+  },
+  {
+    "title": "UpCodes (YC S17) is hiring SDR's to sell AI com...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 1
+  },
+  {
+    "title": "BDF EXPERTS: SAP Berater FI/CO (M/W/D)",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
@@ -82,6 +108,19 @@
       }
     ],
     "source": "WeWorkRemotely",
-    "matchScore": 1
+    "matchScore": 0
+  },
+  {
+    "title": "Y/N (YC S23) is hiring a growth lead to distrib...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 0
   }
 ]
