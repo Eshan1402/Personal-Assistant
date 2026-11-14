@@ -51,23 +51,6 @@
     "matchScore": 1
   },
   {
-    "title": "Current: Freelance Marketo Email Engineer",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 1
-  },
-  {
     "title": "Autonomous (YC F25) is hiring MTS to build AI a...",
     "company": "Y Combinator Startup",
     "time": "Today",
@@ -92,6 +75,23 @@
     ],
     "source": "HN",
     "matchScore": 1
+  },
+  {
+    "title": "Growth Minded: Senior Data Engineer",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
   },
   {
     "title": "BDF EXPERTS: SAP Berater FI/CO (M/W/D)",
