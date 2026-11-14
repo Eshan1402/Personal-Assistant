@@ -26,6 +26,23 @@
     "matchScore": 1
   },
   {
+    "title": "Vertex Marketing Group: Distribution Engineer",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
     "title": "Celonis: Client Value Partner (CVP) - Utilities & Energy Industry",
     "company": "Tech Company",
     "time": "Just now",
@@ -78,23 +95,6 @@
   },
   {
     "title": "Growth Minded: Senior Data Engineer",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "BDF EXPERTS: SAP Berater FI/CO (M/W/D)",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
