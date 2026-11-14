@@ -1,56 +1,5 @@
 [
   {
-    "title": "Proxify AB: Senior Fullstack Developer (React.js / Node.js)",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 2
-  },
-  {
-    "title": "Proxify AB: Senior Backend Developer (Python)",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 1
-  },
-  {
-    "title": "Proxify AB: Senior Backend Developer (Node.js / Nest.js)",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 1
-  },
-  {
     "title": "Autonomous (YC F25) is hiring MTS to build AI a...",
     "company": "Y Combinator Startup",
     "time": "Today",
@@ -75,6 +24,57 @@
     ],
     "source": "HN",
     "matchScore": 1
+  },
+  {
+    "title": "Celonis: Client Value Partner (CVP) - Utilities & Energy Industry",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
+    "title": "Celonis: Client Value Partner (CVP) - Oil & Gas Industry",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
+    "title": "Reddit: Analytics Engineer",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
   },
   {
     "title": "Growth Minded: Senior Data Engineer",
