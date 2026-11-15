@@ -26,6 +26,40 @@
     "matchScore": 1
   },
   {
+    "title": "Lemon.io: Senior Vue Developer",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
+    "title": "Ritual: Core Protocol Engineer",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
     "title": "Oportun: Senior Data Engineer - Capital Markets (R13923)",
     "company": "Tech Company",
     "time": "Just now",
@@ -61,40 +95,6 @@
   },
   {
     "title": "Toptal: Salesforce Developer for Org Ownership and Ongoing Platform Development",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Vertex Marketing Group: Distribution Engineer",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Celonis: Client Value Partner (CVP) - Utilities & Energy Industry",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
