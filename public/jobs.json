@@ -1,29 +1,20 @@
 [
   {
-    "title": "Autonomous (YC F25) is hiring MTS to build AI a...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
+    "title": "Toptal: Salesforce Developer for Org Ownership and Ongoing Platform Development",
+    "company": "Tech Company",
+    "time": "Just now",
     "tags": [
       {
-        "label": "Startup",
+        "label": "Remote",
         "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 1
-  },
-  {
-    "title": "Tinfoil (YC P25) is hiring an applied AI securi...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
+      },
       {
-        "label": "Startup",
-        "type": "orange"
+        "label": "Full-time",
+        "type": "green"
       }
     ],
-    "source": "HN",
-    "matchScore": 1
+    "source": "WeWorkRemotely",
+    "matchScore": 0
   },
   {
     "title": "Vertex Marketing Group: Distribution Engineer",
@@ -91,36 +82,6 @@
       }
     ],
     "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Growth Minded: Senior Data Engineer",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Y/N (YC S23) is hiring a growth lead to distrib...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
     "matchScore": 0
   }
 ]
