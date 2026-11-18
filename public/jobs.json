@@ -34,32 +34,6 @@
     "matchScore": 1
   },
   {
-    "title": "Autonomous (YC F25) is hiring MTS to build AI a...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 1
-  },
-  {
-    "title": "Tinfoil (YC P25) is hiring an applied AI securi...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 1
-  },
-  {
     "title": "Bybit: Animator Intern",
     "company": "Tech Company",
     "time": "Just now",
@@ -108,19 +82,6 @@
       }
     ],
     "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Y/N (YC S23) is hiring a growth lead to distrib...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
     "matchScore": 0
   }
 ]
