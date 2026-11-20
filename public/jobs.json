@@ -13,6 +13,23 @@
     "matchScore": 1
   },
   {
+    "title": "Knock: Lending Manager (Front End) - Remote",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
     "title": "ZoomInfo Technologies LLC: Principal Product Management, Growth",
     "company": "Tech Company",
     "time": "Just now",
@@ -65,23 +82,6 @@
   },
   {
     "title": "GitLab: Backend Engineer, Knowledge Graph",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Jumio: Principal Enterprise Architect",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
