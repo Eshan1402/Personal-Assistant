@@ -1,5 +1,22 @@
 [
   {
+    "title": "A.Team: Senior Independent AI Engineer / Architect",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 1
+  },
+  {
     "title": "Yooli: FULL TIME: Software Engineer Position - React and Rest",
     "company": "Tech Company",
     "time": "Just now",
@@ -17,17 +34,38 @@
     "matchScore": 1
   },
   {
-    "title": "Autonomous (YC F25) is hiring MTS to build AI a...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
+    "title": "A.Team: Senior Independent Software Developer ($90-$170/hr)",
+    "company": "Tech Company",
+    "time": "Just now",
     "tags": [
       {
-        "label": "Startup",
+        "label": "Remote",
         "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
       }
     ],
-    "source": "HN",
-    "matchScore": 1
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
+    "title": "MANTECH: Quantum Research Scientist",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
   },
   {
     "title": "Custom Mechanical Solutions: Quality and Reliability Engineer",
@@ -47,54 +85,16 @@
     "matchScore": 0
   },
   {
-    "title": "WelcomeHome Software: Senior Software Engineer",
-    "company": "Tech Company",
-    "time": "Just now",
+    "title": "Tasklet (YC P26) Is Hiring Product and Agent In...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
     "tags": [
       {
-        "label": "Remote",
+        "label": "Startup",
         "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
       }
     ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Knock: Lending Manager (Front End) - Remote",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "ZoomInfo Technologies LLC: Principal Product Management, Growth",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
+    "source": "HN",
     "matchScore": 0
   },
   {
