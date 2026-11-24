@@ -1,5 +1,22 @@
 [
   {
+    "title": "Vertican: Senior Applied AI Engineer, Document Intelligence",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 1
+  },
+  {
     "title": "Toptal: Cryptography Specialist for AI lab",
     "company": "Tech Company",
     "time": "Just now",
@@ -65,62 +82,6 @@
       }
     ],
     "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Crazy Maple Studio: Screenwriter - ReelShort (Contractor)",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "EasyPost (YC S13) Is Hiring",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 0
-  },
-  {
-    "title": "CollectWise (YC F24) Is Hiring",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
-    "matchScore": 0
-  },
-  {
-    "title": "Tasklet (YC P26) Is Hiring Product and Agent In...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
-    "tags": [
-      {
-        "label": "Startup",
-        "type": "orange"
-      }
-    ],
-    "source": "HN",
     "matchScore": 0
   }
 ]
