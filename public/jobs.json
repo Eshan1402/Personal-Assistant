@@ -64,6 +64,23 @@
     "matchScore": 1
   },
   {
+    "title": "EPAM Systems: Senior Web Application Security Engineer",
+    "company": "Tech Company",
+    "time": "Just now",
+    "tags": [
+      {
+        "label": "Remote",
+        "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
+      }
+    ],
+    "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
     "title": "DRFIRST COM INC: Senior Software Engineer",
     "company": "Tech Company",
     "time": "Just now",
@@ -81,24 +98,7 @@
     "matchScore": 0
   },
   {
-    "title": "Toptal: ML Inference Engineer – Terminal-Bench Task Designer",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "EasyPost (YC S13) Is Hiring",
+    "title": "Hazel (YC W24) Is Hiring a Product Designer",
     "company": "Y Combinator Startup",
     "time": "Today",
     "tags": [
@@ -111,7 +111,7 @@
     "matchScore": 0
   },
   {
-    "title": "CollectWise (YC F24) Is Hiring",
+    "title": "EasyPost (YC S13) Is Hiring",
     "company": "Y Combinator Startup",
     "time": "Today",
     "tags": [
