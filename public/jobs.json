@@ -51,6 +51,19 @@
     "matchScore": 1
   },
   {
+    "title": "Weave (YC W25) is hiring ML, AI, product, & des...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 1
+  },
+  {
     "title": "DRFIRST COM INC: Senior Software Engineer",
     "company": "Tech Company",
     "time": "Just now",
@@ -82,6 +95,32 @@
       }
     ],
     "source": "WeWorkRemotely",
+    "matchScore": 0
+  },
+  {
+    "title": "EasyPost (YC S13) Is Hiring",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 0
+  },
+  {
+    "title": "CollectWise (YC F24) Is Hiring",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
     "matchScore": 0
   }
 ]
