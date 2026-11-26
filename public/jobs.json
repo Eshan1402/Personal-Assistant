@@ -34,7 +34,20 @@
     "matchScore": 1
   },
   {
-    "title": "Secure Privacy: Senior Full-Stack Web Developer (.NET/C#/MongoDB/Angular/Redux) – AI-First, with GDPR Experience",
+    "title": "Weave (YC W25) is hiring ML, AI, product, & des...",
+    "company": "Y Combinator Startup",
+    "time": "Today",
+    "tags": [
+      {
+        "label": "Startup",
+        "type": "orange"
+      }
+    ],
+    "source": "HN",
+    "matchScore": 1
+  },
+  {
+    "title": "Karat: Software Engineer Interviewer",
     "company": "Tech Company",
     "time": "Just now",
     "tags": [
@@ -48,20 +61,24 @@
       }
     ],
     "source": "WeWorkRemotely",
-    "matchScore": 1
+    "matchScore": 0
   },
   {
-    "title": "Weave (YC W25) is hiring ML, AI, product, & des...",
-    "company": "Y Combinator Startup",
-    "time": "Today",
+    "title": "Golden 1 Credit Union: Web Applications Programmer II (Sitecore Development Required)",
+    "company": "Tech Company",
+    "time": "Just now",
     "tags": [
       {
-        "label": "Startup",
+        "label": "Remote",
         "type": "orange"
+      },
+      {
+        "label": "Full-time",
+        "type": "green"
       }
     ],
-    "source": "HN",
-    "matchScore": 1
+    "source": "WeWorkRemotely",
+    "matchScore": 0
   },
   {
     "title": "EPAM Systems: Senior Web Application Security Engineer",
@@ -81,24 +98,7 @@
     "matchScore": 0
   },
   {
-    "title": "DRFIRST COM INC: Senior Software Engineer",
-    "company": "Tech Company",
-    "time": "Just now",
-    "tags": [
-      {
-        "label": "Remote",
-        "type": "orange"
-      },
-      {
-        "label": "Full-time",
-        "type": "green"
-      }
-    ],
-    "source": "WeWorkRemotely",
-    "matchScore": 0
-  },
-  {
-    "title": "Hazel (YC W24) Is Hiring a Product Designer",
+    "title": "Head of Software Engineering – NOX Metals",
     "company": "Y Combinator Startup",
     "time": "Today",
     "tags": [
@@ -111,7 +111,7 @@
     "matchScore": 0
   },
   {
-    "title": "EasyPost (YC S13) Is Hiring",
+    "title": "Hazel (YC W24) Is Hiring a Product Designer",
     "company": "Y Combinator Startup",
     "time": "Today",
     "tags": [
